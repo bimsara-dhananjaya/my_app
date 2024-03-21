@@ -1,0 +1,22 @@
+{
+  "name": "@bimsara/quasar-app-extension-my",
+  "version": "0.0.1",
+  "description": "\"no\"",
+  "author": "bimsara-dhananjaya <bimsaradhananjaya8586@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "homepage": "myapp",
+  "engines": {
+    "node": ">= 12.2.0",
+    "npm": ">= 5.6.0",
+    "yarn": ">= 1.6.0"
+  }
+}
